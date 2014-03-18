@@ -1,5 +1,5 @@
 <?php $options->setDefault('single', true) ?>
-<div>Information</div>
+<div>公告</div>
 <div class="body sortHandle">
 <?php include_customizes($id, 'bodyTop') ?>
 <?php include_customizes('information', 'bodyTop') ?>
